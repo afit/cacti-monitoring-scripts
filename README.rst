@@ -21,10 +21,10 @@ What scripts are there?
 
 The scripts are listed below:
 
- * APC Smart-UPS with AP9606 network card:	This host template will work with any APC Smart-UPS with an AP9606 or AP9619 network card, providing battery status, device temperature, line voltage and output load, voltage and current details.
- * APC 9619 Environmental Monitoring External Probe: These data/graph templates will provide temperature and humidity readings from the external probe connected to an APC AP9619 environmental monitoring card. You can add these data templates to an existing host template such as the Smart-UPS template above. (Probe 1 Temp)
- * APC 9619 Environmental Monitoring External Probe: These data/graph templates will provide temperature and humidity readings from the external probe connected to an APC AP9619 environmental monitoring card. You can add these data templates to an existing host template such as the Smart-UPS template above. (Probe 1 Humidity)
- * APC AP7721 Rack Automatic Transfer Switch	This host template provide voltage, power, load and current for Source A and B inputs and the output on an APC AP7721 Automatic Transfer Switch as well as details of the current input source and redundancy state.
+* APC Smart-UPS with AP9606 network card:	This host template will work with any APC Smart-UPS with an AP9606 or AP9619 network card, providing battery status, device temperature, line voltage and output load, voltage and current details.
+* APC 9619 Environmental Monitoring External Probe: These data/graph templates will provide temperature and humidity readings from the external probe connected to an APC AP9619 environmental monitoring card. You can add these data templates to an existing host template such as the Smart-UPS template above. (Probe 1 Temp)
+* APC 9619 Environmental Monitoring External Probe: These data/graph templates will provide temperature and humidity readings from the external probe connected to an APC AP9619 environmental monitoring card. You can add these data templates to an existing host template such as the Smart-UPS template above. (Probe 1 Humidity)
+* APC AP7721 Rack Automatic Transfer Switch	This host template provide voltage, power, load and current for Source A and B inputs and the output on an APC AP7721 Automatic Transfer Switch as well as details of the current input source and redundancy state.
  
 Help! It doesn't work!
 ----------------------
